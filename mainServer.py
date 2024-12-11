@@ -23,7 +23,7 @@ app = Flask(__name__)
 def autenticar_google_sheets():
     scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets',
              "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name('presencaapi-8ad73dbbe053.json', scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name('presencaapi-efae3595ae07.json', scope)
     client = gspread.authorize(creds)
     spreadsheet = client.open("ListaPresenca2025")
     sheet = spreadsheet.worksheet("Página1")

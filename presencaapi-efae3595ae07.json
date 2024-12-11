@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "presencaapi",
+  "private_key_id": "efae3595ae07f4e56621cb7d03416c72542a831d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSHfRBmJe0CRwL\nkKLTNZ1tlNWvBiXgo0enp0uk4cuBx7uarju7Id3cRHvYlPn5/4yZh/ZpTcjfFSON\nwKOP+7tMPTmGZcx/Lm1k6UpspWke8LtTCyJHTPozCmxBechSr04WLcDF1VwizfFA\nf1wxANrQfcnd1wDIydRIkydfOA2peVREdZccXLN+VbYsiggbLN3Mq0jM31LnmE9z\nO/HZVJF5pfGg5ppH5TeKIb/7Fhmd/Yz9Vilxmoi5zw0diPlnzWA+078IcbuqWTws\nT3VpQKEw4pr8ilhDT+1r3ulOjZbDNIB0ndheQnz3QHHixQHzjpz2HVvUy/6jQvnO\naoH/1huTAgMBAAECggEAWldKuBF12JC6IDbV6134DC+cGJ7aFlXd7zW9Dm2O5IQO\nI5maUQFktNo1LZAQUu8PcsvEpM4u+cvK953GNZgUldkVLLYEUQKTQnoT59bO9eCn\nijMVT/bG9L8cgKJuAS8iseKGKglsjgJiIksgRmmJq28KJnnU+n/c6D9tBEHDjgO2\n3rNtBaOGhe13gKuvJCiaxKvyhb6A7rVwC7CzYxbXpbaMopMc5l0swmaSEXyFwXxU\ngYY8NZdailm8vYLoIZ+S7FIyZIOiqC2YUUMlovRt1VJLA7K23p3T4Y/SUokVspsH\nck9zyKLjs7nJRY4Fzf2OOT5aELzLDO6IHFVXxcsNAQKBgQD3ZSEPv2xQDwOKUrEh\nxSV+80UfYQNwZaLvX9tgCMN9PrvEYQeoywj7y9thM4OdnlXwtuRJaYlNfOWDtRAP\nH09WYMLivmnATPdz40CeZPPM0qwvMYxOTqW/KbKLa8fRYUrQ0V/aUw2sUlESPf4o\nC6yG5L2bkXIARy/HxQFTFZjnQQKBgQDZbOQ9SqeiKdHuYUJOiykoniO4fw41yfIL\nFVna4QbeqMnGr8iP+RbbwQGqGDTJmoAbxt12nAymvE0QLu41Ayz57uGciqmPEnIc\n5W+D8RNQTyqgJDE8xARM5iTYZ347mcLttoyF63Tz6DSvElTSIPrQXBWtaSNEUUR7\nU9dLMhhB0wKBgB/PniezOo80zwS7S1GHUyH2z/2P8OxD9WaIUeIQXmq9ZVGEFIMM\n0HPoK6ZdBGCBGpXgPox+CIyxMaX040K+iOoXeRfE2j5C51K8dvOnEX5V3JQY7+yl\nykRBbVbmHgR7WS5urb+aDFkLIKeS1xp5Hc8enI7jbeBBRxCN8XSog0fBAoGAGlTu\nu2GMNb581zLeNebyoCGuz8xLa0Y+0wrN7A0uqM6mSTLGxnDzTL/uNKxj0Dqu4y5N\naezyN0s8xgX5AWCWFNrSZgQBDvu76DX9MGyE20gLMIPRlrtijfGdarv19L/ldKaU\nFC/05QktQDqnHR+zYIKWeX7vL3nsIkeAHnI9r9MCgYB7CSU+PmJxC/ENCXiw2N3q\nHNzthlggHV1FSJQQJNpx1MB4hCIBDJYByaFZLhB9lBEBxISXLvBsMdb15/3WQErE\nqKcfiyvk8GsRgJpy/3zx8gZLEfvjiz9wlA2M6BPFnmj2crdSVasat415tyXTNLs1\ncBKFCNb643eek/5iWwTNaw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "registropresenca@presencaapi.iam.gserviceaccount.com",
+  "client_id": "115810422270180480586",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/registropresenca%40presencaapi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

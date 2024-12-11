@@ -60,7 +60,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.mainServer">
+  <component name="RunManager" selected="Python.app">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomacaoDITRA" />
       <option name="ENV_FILES" value="" />
@@ -173,8 +173,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mainServer" />
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.mainServer" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.carteirinhas" />
         <item itemvalue="Python.server" />

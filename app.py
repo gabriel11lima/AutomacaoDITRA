@@ -41,4 +41,5 @@ def registrar_presenca():
 
 if __name__ == "__main__":
     gerar_carteirinhas()  # Gera as carteirinhas quando o servidor iniciar
-    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))  # Usa a porta fornecida pelo Railway
+    port = int(os.environ.get('PORT', 8080))  # Usa a porta 8080, caso Railway não defina
+    app.run(debug=True, host='0.0.0.0', port=port)

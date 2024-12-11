@@ -1,3 +1,4 @@
+import os
 from flask import Flask, request, jsonify
 from carteirinhas import gerar_carteirinhas  # Importa a função de geração de carteirinhas
 import gspread
@@ -40,4 +41,4 @@ def registrar_presenca():
 
 if __name__ == "__main__":
     gerar_carteirinhas()  # Gera as carteirinhas quando o servidor iniciar
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))  # Usa a porta fornecida pelo Railway

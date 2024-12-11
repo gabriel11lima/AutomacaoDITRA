@@ -39,7 +39,7 @@ def gerar_carteirinhas():
             c.drawString(305, altura_pontos - 524, f"{validade}")
 
             # Gerar o QR code
-            qr_data = f"http://192.168.15.20:5000/validate?matricula={matricula}&id={uuid.uuid4()}&nome={nome}"
+            qr_data = f"automacaoditra-production.up.railway.app/validate?matricula={matricula}&id={uuid.uuid4()}&nome={nome}"
             qr = qrcode.make(qr_data)
 
             # Salvar o QR code em memória
